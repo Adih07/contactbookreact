@@ -1,0 +1,23 @@
+body {
+  background: url("https://proprikol.ru/wp-content/uploads/2019/08/kartinki-na-zadnij-fon-34.jpg")
+    no-repeat center center fixed;
+}
+
+.mod {
+  border: 5px solid gold;
+  border-right-color: red;
+  border-left-color: red;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+  background: url("https://thumb.tildacdn.com/tild3133-6133-4531-b830-343338393035/-/resize/824x/-/format/webp/1-min.jpg");
+  color: white;
+}
+
+.card {
+  color: white;
+  background: url("https://oir.mobi/uploads/posts/2021-03/1616611363_50-p-tekhnologichnii-fon-58.png");
+  opacity: 0.5;
+}
+.card:hover {
+  opacity: 1;
+}
